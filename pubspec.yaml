@@ -1,0 +1,14 @@
+name: scripts_parser
+description: A sample command-line application.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: S.-C Lee <email@example.com>
+
+environment:
+  sdk: '>=2.0.0-dev.55.0 <2.0.0'
+
+dependencies:
+  html: any
+
+dev_dependencies:
+  test: ^0.12.30
