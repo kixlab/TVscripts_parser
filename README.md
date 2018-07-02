@@ -10,4 +10,8 @@ $ brew install dart --devel
 
 * clone this repo
 * copy scripts to scripts folder
+* install packages
+```
+pub get
+```
 * run $ dart bin/main.dart
